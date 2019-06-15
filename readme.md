@@ -1,4 +1,4 @@
-### Calculadora
+# Calculadora
 -----------
 Pequeño proyecto de calculadora que realiza las operaciones básicas conocidas.
 
@@ -8,10 +8,10 @@ Pequeño proyecto de calculadora que realiza las operaciones básicas conocidas.
 - multiplicación
 - división
 
-# Herramientas utilizadas
+## Herramientas utilizadas
 - react native
 - android studio
 
-# Funcionalidades:
+## Funcionalidades:
 
 - validacion de campo vacio
